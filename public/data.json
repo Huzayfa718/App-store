@@ -1,0 +1,186 @@
+[
+  {
+    "id": "app001",
+    "name": "Programming Hero",
+    "developer": "Programming Hero Ltd.",
+    "thumbnail": "/programming-hero.jpg",
+    "banner": "/programming-hero-banner.jpg",
+    "downloads": 3500000,
+    "category": "Education",
+    "rating": 4.8,
+    "description": "Programming Hero is a fun and interactive way to learn programming. Whether you're a beginner or looking to brush up your skills, this app makes learning to code exciting and practical.",
+    "features": [
+      "Interactive coding lessons",
+      "Real-world projects",
+      "Gamified learning experience"
+    ],
+    "reviews": [
+      {
+        "user": "coder_nadia",
+        "rating": 5,
+        "comment": "Best app for beginners! The lessons are super easy to follow and engaging."
+      }
+    ]
+  },
+  {
+    "id": "app002",
+    "name": "Notion",
+    "developer": "Notion Labs, Inc.",
+    "thumbnail": "/notion.png",
+    "banner": "/notion-banner.jpg",
+    "downloads": 10000000,
+    "category": "Productivity",
+    "rating": 4.6,
+    "description": "Notion is an all-in-one workspace where you can write, plan, and get organized. It’s perfect for personal productivity and team collaboration.",
+    "features": [
+      "Markdown editor",
+      "Task management",
+      "Database support"
+    ],
+    "reviews": [
+      {
+        "user": "productivitygeek",
+        "rating": 5,
+        "comment": "Replaced all my productivity apps. It’s so flexible!"
+      }
+    ]
+  },
+  {
+    "id": "app003",
+    "name": "Duolingo",
+    "developer": "Duolingo Inc.",
+    "thumbnail": "/duolingo.png",
+    "banner": "/duolingo-banner.jpg",
+    "downloads": 50000000,
+    "category": "Education",
+    "rating": 4.7,
+    "description": "Learn a new language with fun, bite-sized lessons. Practice speaking, reading, listening, and writing to build vocabulary and grammar skills.",
+    "features": [
+      "30+ languages",
+      "Gamified learning",
+      "Daily streak system"
+    ],
+    "reviews": [
+      {
+        "user": "lingolover123",
+        "rating": 5,
+        "comment": "Learning Spanish has never been this fun and addictive!"
+      }
+    ]
+  },
+  {
+    "id": "app004",
+    "name": "Trello",
+    "developer": "Atlassian",
+    "thumbnail": "/trello.jpg",
+    "banner": "/trello-banner.jpg",
+    "downloads": 10000000,
+    "category": "Productivity",
+    "rating": 4.5,
+    "description": "Trello lets you work more collaboratively and get more done. Boards, lists, and cards enable you to organize and prioritize your projects.",
+    "features": [
+      "Custom boards",
+      "Team collaboration",
+      "Drag-and-drop interface"
+    ],
+    "reviews": [
+      {
+        "user": "projectpro",
+        "rating": 4,
+        "comment": "Great for organizing tasks visually."
+      }
+    ]
+  },
+  {
+    "id": "app005",
+    "name": "Clash Royale",
+    "developer": "Supercell",
+    "thumbnail": "/clashroyal.jpg",
+    "banner": "/clashroyal-banner.jpg",
+    "downloads": 100000000,
+    "category": "Gaming",
+    "rating": 4.4,
+    "description": "Enter the Arena! From the creators of Clash of Clans comes a real-time multiplayer game starring the Royales.",
+    "features": [
+      "Real-time 1v1 battles",
+      "Clan support",
+      "Trophy-based matchmaking"
+    ],
+    "reviews": [
+      {
+        "user": "gamerzKing",
+        "rating": 5,
+        "comment": "Intense and strategic. Can't stop playing!"
+      }
+    ]
+  },
+  {
+    "id": "app006",
+    "name": "Khan Academy",
+    "developer": "Khan Academy",
+    "thumbnail": "/khanaca.png",
+    "banner": "/khanaca-banner.png",
+    "downloads": 10000000,
+    "category": "Education",
+    "rating": 4.8,
+    "description": "Free educational resources for students, teachers, and lifelong learners. Subjects include math, science, history, and more.",
+    "features": [
+      "Video tutorials",
+      "Practice exercises",
+      "Personalized dashboard"
+    ],
+    "reviews": [
+      {
+        "user": "studentforlife",
+        "rating": 5,
+        "comment": "Lifesaver during exams. Best free learning resource."
+      }
+    ]
+  },
+  {
+    "id": "app007",
+    "name": "Among Us",
+    "developer": "Innersloth LLC",
+    "thumbnail": "/amongus.png",
+    "banner": "/amongus-banner.jpg",
+    "downloads": 500000000,
+    "category": "Gaming",
+    "rating": 4.3,
+    "description": "Join your crewmates in a multiplayer game of teamwork and betrayal! Play online or over local WiFi.",
+    "features": [
+      "Multiplayer support",
+      "Fun and suspenseful gameplay",
+      "Custom game rules"
+    ],
+    "reviews": [
+      {
+        "user": "imposterlol",
+        "rating": 5,
+        "comment": "Playing with friends is so much fun. Who’s the imposter?!"
+      }
+    ]
+  },
+  {
+    "id": "app008",
+    "name": "Forest",
+    "developer": "Seekrtech",
+    "thumbnail": "/forest.jpg",
+    "banner": "/forest-banner.jpg",
+    "downloads": 5000000,
+    "category": "Productivity",
+    "rating": 4.7,
+    "description": "Stay focused and plant trees! Forest helps you beat phone addiction and manage your time in a fun and sustainable way.",
+    "features": [
+      "Focus timer",
+      "Tree planting gamification",
+      "Stats and tracking"
+    ],
+    "reviews": [
+      {
+        "user": "focusfan",
+        "rating": 4,
+        "comment": "Visually rewarding and keeps me productive. Great concept!"
+      }
+    ]
+  }
+]
